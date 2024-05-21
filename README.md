@@ -11,7 +11,8 @@ Date: May 20, 2024
 - Section 4 – Website audit part 2
 
 ## Instructions
-- `node_modules` and `vendor` directories have been excluded from the Local-WP zip file
+- `assets`, `node_modules` and `vendor` directories have been excluded from the Local-WP zip file to reduce file size
+- 
 
 
 ## Wireframe Preview
