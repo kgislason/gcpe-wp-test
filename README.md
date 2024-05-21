@@ -12,3 +12,7 @@ Date: May 20, 2024
 
 ## Instructions
 - `node_modules` and `vendor` directories have been excluded from the Local-WP zip file
+
+
+## Wireframe Preview
+![Wireframe Preview](thumbnail.jpg)
